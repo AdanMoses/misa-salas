@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Scrollspy from "@makotot/ghostui";
+import { Scrollspy } from "@makotot/ghostui";
 import { Link } from "react-router-dom";
 import {
   FiUser,

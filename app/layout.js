@@ -1,5 +1,6 @@
 import './globals.css'
 import "aos/dist/aos.css";
+import 'react-tooltip/dist/react-tooltip.css'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
