@@ -1,4 +1,5 @@
 import './globals.css'
+import "./assets/scss/main.scss";
 import "aos/dist/aos.css";
 import 'react-tooltip/dist/react-tooltip.css'
 import { Inter } from 'next/font/google'
